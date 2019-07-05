@@ -1,5 +1,6 @@
-Event2Vec++: Agrupamento Hier�rquico Multivis�o de Eventos usando Embedding Spaces.
+## Framework para Event2Vec++
 
+##### Acesso para os resultados experimentais: [Aqui](https://docs.google.com/spreadsheets/d/1EYnHTaS6Cf9tHGyAG4NoERZ_B0T-xPAujG2KN-aHzGM/edit?usp=sharing)
 -------------------------------------------------------------------------------------------
 
 ## File: dataset.py
@@ -38,23 +39,15 @@ Obs: Default parameters are omitted.
 
 --method
 
-1. Node2vec
+1. Node2Vec
 2. DeepWalk
-3. Metapath2vec
-4. Line
+3. Metapath2Vec
+4. LINE
 5. NetMF
 
 --input 
 
 - `graph.pkl` is the name of your network file.
-
---nodes
-
-- `nodes.csv` is the name of your csv file. Only for metapath2vec.
-
---edges
-
-- `edges.csv` is the name of your csv file. Only for metapath2vec.
 
 --output
 
