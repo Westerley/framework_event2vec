@@ -1,4 +1,4 @@
-## Framework para Event2Vec++
+## Framework para Event2Vec
 
 ##### Acesso para os resultados experimentais: [Aqui](https://docs.google.com/spreadsheets/d/1EYnHTaS6Cf9tHGyAG4NoERZ_B0T-xPAujG2KN-aHzGM/edit?usp=sharing)
 -------------------------------------------------------------------------------------------
